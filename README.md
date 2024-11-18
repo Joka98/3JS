@@ -1,4 +1,5 @@
 The easiest way to run this code is just to open in in the VS Code and use the extension "Live Server" and it will open a port on your machine (usually for me its 5500).
+
 You can see the port in this icon
 ![image](https://github.com/user-attachments/assets/51675bdc-51c2-46eb-b750-60d0541222f1)
 
