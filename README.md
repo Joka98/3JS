@@ -16,4 +16,7 @@ On your browser you can type "http://127.0.0.1:5500/" on the url.
 
 To interact with the project you can drag and zoom for now.
 
+You can close the server/Vs Code instance if you wish because the files are already on ram memory in your browser. 
+Just don't refresh(otherwise you will have to turn the server back on so it can provide the cliente(browser) the files).
+
 Feel free to download it and try new values to make it more your style.
