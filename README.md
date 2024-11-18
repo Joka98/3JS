@@ -13,5 +13,6 @@ if it doesn't open automaticly.
 
 On your browser you can type "http://127.0.0.1:5500/" on the url.
 
-You can also drag and zoom.
+To interact with the project you can drag and zoom for now.
 
+Feel free to download it and try new values to make it more your style.
