@@ -1,4 +1,5 @@
-The easiest way to run this code is just to open in in the VS Code and use the extension "Live Server" ![image](https://github.com/user-attachments/assets/d4cf01a2-030b-456e-b0ad-9c62f56e9e16)
+The easiest way to run this code is just to open in in the VS Code and use the extension "Live Server"
+![image](https://github.com/user-attachments/assets/d4cf01a2-030b-456e-b0ad-9c62f56e9e16)
 
 On the down right corner you have this icon to put it online.
 
