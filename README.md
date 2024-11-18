@@ -1,5 +1,6 @@
 The easiest way to run this code is just to open in in the VS Code and use the extension "Live Server" ![image](https://github.com/user-attachments/assets/d4cf01a2-030b-456e-b0ad-9c62f56e9e16)
 
+On the down right corner you have this icon to put it online.
 
 ![image](https://github.com/user-attachments/assets/ec5470de-2cdf-4dc6-8964-492f9af8b872)
 
