@@ -1,4 +1,4 @@
-
+<div align="center">
 ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/34b1c521-d61e-4f9c-89d7-b134447e89a4)
 
 
@@ -25,3 +25,5 @@ You can close the server/Vs Code instance if you wish because the files are alre
 Just don't refresh(otherwise you will have to turn the server back on so it can provide the cliente(browser) the files).
 
 Feel free to download it and try new values to make it more your style.
+
+</div>
