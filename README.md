@@ -2,7 +2,7 @@
   
 ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/34b1c521-d61e-4f9c-89d7-b134447e89a4)
 
-
+This is just a gif...🤨
 
 The easiest way to run this code is just to open in in the VS Code and use the extension "Live Server"
 
